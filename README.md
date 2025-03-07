@@ -11,6 +11,9 @@ Plotted drawdowns.
 ## Stop_loss
 An experimental method on making buy or sell decisions using drawdowns and linear regression on stock price data.
 
+## Brownian Motion
+Simulated multiple possible 'walks' that a stock can take using exponential brownian motion
+
 ## MPT
 Implementation of Markovitz Portfolio Theory on a set of 20 stocks.
 Includes hypothesis testing showing the effectiveness of the optimised portfolio.
